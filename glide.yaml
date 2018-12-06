@@ -1,0 +1,7 @@
+import:
+- package: github.com/wsxiaoys/terminal
+  subpackages:
+  - color
+  version: 0940f3fc43a0ed42d04916b1c04578462c650b09
+package: github.com/karlseguin/expect
+
